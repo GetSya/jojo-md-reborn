@@ -2,7 +2,7 @@
   "users": {
     "6288213292687@s.whatsapp.net": {
       "name": "+62 882-1329-2687",
-      "exp": 534,
+      "exp": 349,
       "money": 0,
       "level": 1,
       "limit": 20,
@@ -20,7 +20,7 @@
     },
     "6288214772441@s.whatsapp.net": {
       "name": "arasya",
-      "exp": 2101,
+      "exp": 660,
       "money": 0,
       "level": 1,
       "limit": 20,
@@ -38,7 +38,7 @@
     },
     "6285183221210@s.whatsapp.net": {
       "name": "AcaMedia",
-      "exp": 507,
+      "exp": 162,
       "money": 0,
       "level": 1,
       "limit": 14,
@@ -123,10 +123,10 @@
   },
   "stats": {
     "main-menu.js": {
-      "total": 11,
-      "success": 11,
-      "last": 1769701027599,
-      "lastSuccess": 1769701027599
+      "total": 5,
+      "success": 5,
+      "last": 1769661386643,
+      "lastSuccess": 1769661386643
     },
     "xp-profile.js": {
       "total": 2,
@@ -187,18 +187,6 @@
       "success": 2,
       "last": 1769667539985,
       "lastSuccess": 1769667539985
-    },
-    "__cek.js": {
-      "total": 38,
-      "success": 36,
-      "last": 1769700861994,
-      "lastSuccess": 1769700861994
-    },
-    "__support.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1769701123191,
-      "lastSuccess": 1769701123191
     }
   },
   "msgs": {
@@ -209,11 +197,6 @@
   "sticker": {},
   "settings": {
     "6288213292687@s.whatsapp.net": {
-      "public": true,
-      "autoread": true,
-      "anticall": true
-    },
-    "6285183221210@s.whatsapp.net": {
       "public": true,
       "autoread": true,
       "anticall": true

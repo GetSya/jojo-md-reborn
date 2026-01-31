@@ -201,7 +201,7 @@ menuText = [
 
 handler.command = /^(menu|hep)$/i
 handler.tags = ['main']
-handler.help = []
+handler.help = ['menu', 'help']
 
 export default handler
 
